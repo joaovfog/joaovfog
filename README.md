@@ -1,6 +1,9 @@
 # 💫 Sobre mim:
-Sou desenvolvedor frontend com conhecimento em tecnologias como React, Angular, web design responsivo, CSS, HTML e JavaScript. Tenho experiência na criação de sistemas para automação de processos (ERP) e sistemas para auxiliar na gestão do relacionamento com o cliente (CRM).
+Sou um desenvolvedor front-end com experiência, apaixonado por criar interfaces incríveis e garantir uma ótima experiência para os usuários. Tenho amplo conhecimento em tecnologias como HTML, CSS e JavaScript, que me permitem transformar designs em websites interativos e responsivos. Também possuo conhecimento em desenvolvimento back-end, o que me permite colaborar com a equipe de back-end e entender como toda a aplicação funciona em conjunto.
 
+Além disso, tenho facilidade em trabalhar em equipe e habilidade de me atentar aos pequenos detalhes. Sempre estou disposto a aprender novas tecnologias e a me manter atualizado no campo do desenvolvimento web, pois entendo a importância de se adaptar a um ambiente em constante evolução.
+
+Minha versatilidade e experiência me tornam capaz de desempenhar um papel fundamental na criação de aplicações de alta qualidade. Sou comprometido em entregar produtos de excelência, que atendam às necessidades dos usuários.
 
 ## 🌐 Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/3967) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joaovitor.fogaca) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jvfog) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-vitor-fogaça-b9772a163) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/joaovfog) 
