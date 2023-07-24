@@ -18,8 +18,5 @@ Minha versatilidade e experiência me tornam capaz de desempenhar um papel funda
 ---
 [![](https://visitcount.itsvg.in/api?id=joaovfog&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 Você pode me ajudar doando
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/joaovfog) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
