@@ -1,9 +1,11 @@
 # 💫 Sobre mim:
-Sou um desenvolvedor front-end com experiência, apaixonado por criar interfaces incríveis e garantir uma ótima experiência para os usuários. Tenho amplo conhecimento em tecnologias como HTML, CSS e JavaScript, que me permitem transformar designs em websites interativos e responsivos. Também possuo conhecimento em desenvolvimento back-end, o que me permite colaborar com a equipe de back-end e entender como toda a aplicação funciona em conjunto.
+Desenvolvedor Front-end Pleno com 5 anos de experiência construindo aplicações web e mobile com React, Next.js, TypeScript e React Native, de sistemas ERP a plataformas de gestão para o agronegócio e o mercado imobiliário. 
 
-Além disso, tenho facilidade em trabalhar em equipe e habilidade de me atentar aos pequenos detalhes. Sempre estou disposto a aprender novas tecnologias e a me manter atualizado no campo do desenvolvimento web, pois entendo a importância de se adaptar a um ambiente em constante evolução.
+Hoje, na Peregrina Investimentos, desenvolvo um sistema de gestão de haras de ponta a ponta no front-end: a aplicação web em Next.js e o app mobile em React Native, com formulários complexos (React Hook Form + Zod) e gerenciamento de dados com TanStack Query. Antes, na Cigam, desenvolvi módulos de sistemas ERP web e mobile com React e React Native. 
 
-Minha versatilidade e experiência me tornam capaz de desempenhar um papel fundamental na criação de aplicações de alta qualidade. Sou comprometido em entregar produtos de excelência, que atendam às necessidades dos usuários.
+Meu foco é entregar interfaces rápidas, consistentes e fáceis de manter: componentização com Atomic Design, validação robusta de dados, tipagem forte e testes. Como tenho base full-stack (Node.js e Supabase/PostgreSQL), converso bem com times de back-end e entendo o sistema como um todo. 
+
+Em paralelo, estou construindo uma plataforma B2B para o mercado imobiliário com Next.js (App Router), TypeScript, Tailwind CSS, shadcn/ui e Supabase, com autenticação por perfis, segurança via Row Level Security e integração com IA para leitura automática de documentos.
 
 ## 🌐 Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/3967) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joaovitor.fogaca) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jvfog) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-vitor-fogaça-b9772a163) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/joaovfog) 
